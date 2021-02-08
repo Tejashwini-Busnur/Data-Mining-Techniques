@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3428674-f299-453c-86a8-e92e17e5098e" name="Default Changelist" comment="" />
+    <list default="true" id="b3428674-f299-453c-86a8-e92e17e5098e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment4/grocery.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/.idea/Assignment5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/shopping-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/Assignment6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +36,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,7 +74,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/DMT_Assignments/DMT_Assignments/Assignment3/Saran_Prasad_Ambikapathy_Assignment_3.ipynb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -85,7 +104,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24244833" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23529412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -96,7 +115,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.294849" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.26287743" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -105,13 +124,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assignment1.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment1.ipynb" />
     <entry file="file://$PROJECT_DIR$/ml-1m/ratings.dat">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="85">
@@ -126,20 +139,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A1.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment_1.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/A1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Assignment_1.ipynb" />
     <entry file="file://$USER_HOME$/Downloads/DMT_Assignments/DMT_Assignments/Assignment3/Saran_Prasad_Ambikapathy_Assignment_3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>

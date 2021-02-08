@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14faac55-03ac-4aba-9658-2e1d024502b9" name="Default Changelist" comment="" />
+    <list default="true" id="14faac55-03ac-4aba-9658-2e1d024502b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment4/grocery.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/.idea/Assignment5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/shopping-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/Assignment6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +25,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/busnur_tejashwini_Assignment2.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
@@ -22,7 +51,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -34,10 +62,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Assignment2.ipynb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment3" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -78,7 +107,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.294849" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.29307282" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -94,7 +123,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment2.ipynb">
+    <entry file="file://$PROJECT_DIR$/Assignment2.ipynb" />
+    <entry file="file://$PROJECT_DIR$/busnur_tejashwini_Assignment2.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
